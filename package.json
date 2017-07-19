@@ -1,0 +1,24 @@
+{
+  "name": "prime-checker-cli",
+  "version": "1.0.0",
+  "description": "A package for check whether a number is prime or not in CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidikriders/prime-checker-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "prime",
+    "simple"
+  ],
+  "author": "sidikriders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidikriders/prime-checker-cli/issues"
+  },
+  "homepage": "https://github.com/sidikriders/prime-checker-cli#readme"
+}
